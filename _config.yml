@@ -1,0 +1,5 @@
+title: INCI
+description: INCI Github page hub
+remote_theme: jekyll-demos/Twenty-Jekyll-Theme
+plugins:
+  - jekyll-remote-theme
