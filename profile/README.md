@@ -1,4 +1,4 @@
-# Institut des Neurosciences Cellulaires et Intégratives (INCI)
+# Institut des Neurosciences Cellulaires et Intégratives (INCI CNRS UPR 3212)
 
 Welcome to INCI's GitHub space. Our institute brings together over 130 researchers, engineers, and students investigating the nervous system and its pathologies at the University of Strasbourg. This page will host the repositories from our platforms and plateaux, and link to our research team's personal Github pages.
 
