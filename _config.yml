@@ -1,5 +1,6 @@
 title: INCI
 description: INCI Github page hub
 remote_theme: pages-themes/cayman@v0.2.0
+baseurl: "/.github"  # Add this line
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
