@@ -48,13 +48,16 @@ Our institute approaches neuroscience through three main research axes:
 *Leader: P. Bourgin*
 > Studies sleep regulation and circadian rhythms through combined clinical and fundamental research approaches.
 
-### Team 10: **Emotion Control**
+### [Team 10: **Emotion Control**](https://github.com/Team-Charlet)
 *Leader: A. Charlet*
 > Examines peptidergic modulation of emotional behavior, with focus on oxytocin's role in emotional processing.
 
 ## 🔧 Technical Platforms
 
 ### At INCI
+- **Plateau d'imagerie fonctionelle et d'electrophysiologie**
+  > In vivo and ex vivo imaging and electrophysiolgy, data analysis, hardware setup and customization.
+
 - **Plateau d'analyses morphofonctionnelles**
   > Advanced tissue analysis and histological characterization capabilities.
 
