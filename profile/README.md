@@ -24,10 +24,6 @@ Our institute approaches neuroscience through three main research axes:
 *Leader: D. Massotte*
 > Examines pain mechanisms in the spinal cord, focusing on signal processing and modulation at cellular and circuit levels.
 
-### Team 4: **Pain Plasticity**
-*Leader: P. Poisbeau*
-> Studies adaptation in pain control systems, investigating opioid and non-opioid pain modulation mechanisms.
-
 ### Team 5: **Pain & Neuroanatomy**
 *Leaders: M. Barrot & I. Yalcin*
 > Analyzes neural circuits of pain and its emotional consequences, with emphasis on chronic pain conditions.
@@ -36,13 +32,10 @@ Our institute approaches neuroscience through three main research axes:
 *Leaders: MP Felder-Schmittbuhl & F. Pfrieger*
 > Investigates retinal function and light perception, focusing on circadian rhythms in the retina and visual system development.
 
-### Team 7: **Circadian Biology**
-*Leader: E. Challet*
-> Studies biological clocks and metabolic rhythms, examining how internal timekeeping systems regulate behavior and physiology.
-
-### Team 8: **Neuroendocrine Rhythms**
-*Leader: V. Simonneaux*
+### Team 8: **Neuroendocrine & Circadian Rhythms**
+*Leader: V. Simonneaux & E. Challet*
 > Investigates seasonal regulation of reproduction and metabolism through hormonal and biological rhythm interactions.
+> Studies biological clocks and metabolic rhythms, examining how internal timekeeping systems regulate behavior and physiology.
 
 ### Team 9: **Sleep & Rhythms**
 *Leader: P. Bourgin*
@@ -51,6 +44,10 @@ Our institute approaches neuroscience through three main research axes:
 ### [Team 10: **Emotion Control**](https://github.com/Team-Charlet)
 *Leader: A. Charlet*
 > Examines peptidergic modulation of emotional behavior, with focus on oxytocin's role in emotional processing.
+
+### Team 11: ****
+*Leader: Y. Sych*
+>
 
 ## 🔧 Technical Platforms
 
