@@ -45,9 +45,9 @@ Our institute approaches neuroscience through three main research axes:
 *Leader: A. Charlet*
 > Examines peptidergic modulation of emotional behavior, with focus on oxytocin's role in emotional processing.
 
-### Team 11: ****
+### Team 4: **Neurons And Neuromodulation**
 *Leader: Y. Sych*
->
+> Studies how noradrenaline affects multiple brain circuits during learning and sleep-dependent memory consolidation
 
 ## 🔧 Technical Platforms
 
