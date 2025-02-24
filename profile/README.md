@@ -24,6 +24,10 @@ Our institute approaches neuroscience through three main research axes:
 *Leader: D. Massotte*
 > Examines pain mechanisms in the spinal cord, focusing on signal processing and modulation at cellular and circuit levels.
 
+### Team 4: **Neurons And Neuromodulation**
+*Leader: Y. Sych*
+> Studies how noradrenaline affects multiple brain circuits during learning and sleep-dependent memory consolidation
+
 ### Team 5: **Pain & Neuroanatomy**
 *Leaders: M. Barrot & I. Yalcin*
 > Analyzes neural circuits of pain and its emotional consequences, with emphasis on chronic pain conditions.
@@ -44,10 +48,6 @@ Our institute approaches neuroscience through three main research axes:
 ### [Team 10: **Emotion Control**](https://github.com/Team-Charlet)
 *Leader: A. Charlet*
 > Examines peptidergic modulation of emotional behavior, with focus on oxytocin's role in emotional processing.
-
-### Team 4: **Neurons And Neuromodulation**
-*Leader: Y. Sych*
-> Studies how noradrenaline affects multiple brain circuits during learning and sleep-dependent memory consolidation
 
 ## 🔧 Technical Platforms
 
