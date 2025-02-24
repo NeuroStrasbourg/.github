@@ -1,133 +1,123 @@
-Institut des Neurosciences Cellulaires et Intégratives (INCI CNRS UPR 3212)
+# Institut des Neurosciences Cellulaires et Intégratives (INCI CNRS UPR 3212)
+
 Welcome to INCI's GitHub space. Our institute brings together over 130 researchers, engineers, and students investigating the nervous system and its pathologies at the University of Strasbourg. This page will host the repositories from our platforms and plateaux, and link to our research team's personal Github pages.
 
-🧠 Research Focus
+## 🧠 Research Focus
+
 Our institute approaches neuroscience through three main research axes:
 
-Neural Communication: From molecular mechanisms to network dynamics
-Biological Rhythms: Sleep cycles, circadian rhythms and their regulation
-Pain Research: Understanding pain mechanisms and developing therapeutic approaches
-👥 Research Teams
-Team 1: Membrane Trafficking
-Leaders: N. Vitale & S. Gasman
+- **Neural Communication**: From molecular mechanisms to network dynamics
+- **Biological Rhythms**: Sleep cycles, circadian rhythms and their regulation  
+- **Pain Research**: Understanding pain mechanisms and developing therapeutic approaches
 
-Studies intracellular membrane trafficking in nervous and neuroendocrine systems, investigating vesicular dynamics and molecular mechanisms of hormone secretion.
+## 👥 Research Teams
 
-Team 2: Neural Networks
-Leader: P. Isope
+### Team 1: **Membrane Trafficking** 
+*Leaders: N. Vitale & S. Gasman*
+> Studies intracellular membrane trafficking in nervous and neuroendocrine systems, investigating vesicular dynamics and molecular mechanisms of hormone secretion.
 
-Investigates neural circuits and plasticity in the cerebellum, cortex, spinal cord and olfactory bulb to understand motor coordination and learning.
+### [Team 2: **Neural Networks**](https://github.com/TeamNeuralNetworks)
+*Leader: P. Isope*
+> Investigates neural circuits and plasticity in the cerebellum, cortex, spinal cord and olfactory bulb to understand motor coordination and learning.
 
-Team 3: Nociceptive Signaling
-Leader: D. Massotte
+### Team 3: **Nociceptive Signaling**
+*Leader: D. Massotte*
+> Examines pain mechanisms in the spinal cord, focusing on signal processing and modulation at cellular and circuit levels.
 
-Examines pain mechanisms in the spinal cord, focusing on signal processing and modulation at cellular and circuit levels.
+### Team 5: **Pain & Neuroanatomy**
+*Leaders: M. Barrot & I. Yalcin*
+> Analyzes neural circuits of pain and its emotional consequences, with emphasis on chronic pain conditions.
 
-Team 5: Pain & Neuroanatomy
-Leaders: M. Barrot & I. Yalcin
+### Team 6: **Vision & Light**
+*Leaders: MP Felder-Schmittbuhl & F. Pfrieger*
+> Investigates retinal function and light perception, focusing on circadian rhythms in the retina and visual system development.
 
-Analyzes neural circuits of pain and its emotional consequences, with emphasis on chronic pain conditions.
+### Team 8: **Neuroendocrine & Circadian Rhythms**
+*Leader: V. Simonneaux & E. Challet*
+> Investigates seasonal regulation of reproduction and metabolism through hormonal and biological rhythm interactions.
+> Studies biological clocks and metabolic rhythms, examining how internal timekeeping systems regulate behavior and physiology.
 
-Team 6: Vision & Light
-Leaders: MP Felder-Schmittbuhl & F. Pfrieger
+### Team 9: **Sleep & Rhythms**
+*Leader: P. Bourgin*
+> Studies sleep regulation and circadian rhythms through combined clinical and fundamental research approaches.
 
-Investigates retinal function and light perception, focusing on circadian rhythms in the retina and visual system development.
+### [Team 10: **Emotion Control**](https://github.com/Team-Charlet)
+*Leader: A. Charlet*
+> Examines peptidergic modulation of emotional behavior, with focus on oxytocin's role in emotional processing.
 
-Team 8: Neuroendocrine & Circadian Rhythms
-Leader: V. Simonneaux & E. Challet
+### Team 11: ****
+*Leader: Y. Sych*
+>
 
-Investigates seasonal regulation of reproduction and metabolism through hormonal and biological rhythm interactions. Studies biological clocks and metabolic rhythms, examining how internal timekeeping systems regulate behavior and physiology.
+## 🔧 Technical Platforms
 
-Team 9: Sleep & Rhythms
-Leader: P. Bourgin
+### At INCI
+- **Plateau d'imagerie fonctionelle et d'electrophysiologie**
+  > In vivo and ex vivo imaging and electrophysiolgy, data analysis, hardware setup and customization.
 
-Studies sleep regulation and circadian rhythms through combined clinical and fundamental research approaches.
+- **Plateau d'analyses morphofonctionnelles**
+  > Advanced tissue analysis and histological characterization capabilities.
 
-Team 10: Emotion Control
-Leader: A. Charlet
+- **Biologie moléculaire et bioinformatique**
+  > Molecular biology tools and bioinformatics resources for genomic analyses.
 
-Examines peptidergic modulation of emotional behavior, with focus on oxytocin's role in emotional processing.
+- **Comportement et optogénétique**
+  > Behavioral testing facilities combined with optogenetic manipulation capabilities.
 
-Team 11: ****
-Leader: Y. Sych
+- **Cryostats**
+  > Equipment for cryosectioning of biological samples.
 
-🔧 Technical Platforms
-At INCI
-Plateau d'imagerie fonctionelle et d'electrophysiologie
+- **Microdissection laser**
+  > Precise isolation of specific tissue regions and single cells.
 
-In vivo and ex vivo imaging and electrophysiolgy, data analysis, hardware setup and customization.
+- **Microscopie et macroscopie**
+  > Imaging equipment spanning microscopic to macroscopic scales.
 
-Plateau d'analyses morphofonctionnelles
+- **PCR quantitative en temps réel**
+  > Real-time quantitative PCR analysis for gene expression studies.
 
-Advanced tissue analysis and histological characterization capabilities.
+- **Spectrométrie de masse**
+  > Mass spectrometry analysis of small molecules and proteins.
 
-Biologie moléculaire et bioinformatique
+### Associated Platforms
+- **[Chronobiotron](https://chronobiotron.neuro.unistra.fr/)**
+  > Specialized animal facility for chronobiology research featuring environmental control and behavioral monitoring.
 
-Molecular biology tools and bioinformatics resources for genomic analyses.
+- **[Imagerie In Vitro](https://piv.neuro.unistra.fr/)**
+  > Core facility for in vitro imaging with access to high-resolution microscopy.
 
-Comportement et optogénétique
+- **Unité Appui à la Recherche 3156**
+  > Research support unit providing technical assistance and resources.
 
-Behavioral testing facilities combined with optogenetic manipulation capabilities.
+## 🏢 Research Facilities
 
-Cryostats
-
-Equipment for cryosectioning of biological samples.
-
-Microdissection laser
-
-Precise isolation of specific tissue regions and single cells.
-
-Microscopie et macroscopie
-
-Imaging equipment spanning microscopic to macroscopic scales.
-
-PCR quantitative en temps réel
-
-Real-time quantitative PCR analysis for gene expression studies.
-
-Spectrométrie de masse
-
-Mass spectrometry analysis of small molecules and proteins.
-
-Associated Platforms
-Chronobiotron
-
-Specialized animal facility for chronobiology research featuring environmental control and behavioral monitoring.
-
-Imagerie In Vitro
-
-Core facility for in vitro imaging with access to high-resolution microscopy.
-
-Unité Appui à la Recherche 3156
-
-Research support unit providing technical assistance and resources.
-
-🏢 Research Facilities
-Chronobiotron
+### [Chronobiotron](https://chronobiotron.neuro.unistra.fr/)
 Dedicated chronobiology research facility with:
+- Environmental control rooms
+- Light cycle control systems
+- Behavioral monitoring equipment
+- Specialized animal housing
 
-Environmental control rooms
-Light cycle control systems
-Behavioral monitoring equipment
-Specialized animal housing
-In Vitro Imaging Platform
+### [In Vitro Imaging Platform](https://piv.neuro.unistra.fr/)
 Imaging facility providing:
+- High-resolution microscopy
+- Live tissue imaging
+- Analysis support
+- Technical training
 
-High-resolution microscopy
-Live tissue imaging
-Analysis support
-Technical training
-CIRCSom
+### [CIRCSom](https://www.chru-strasbourg.fr/service/centre-des-troubles-du-sommeil/)
 Sleep research facility featuring:
+- Sleep monitoring systems
+- Chronobiology assessment tools
+- Clinical research capabilities
 
-Sleep monitoring systems
-Chronobiology assessment tools
-Clinical research capabilities
-🤝 Collaboration
-INCI participates in the Neurex network, connecting neuroscience research across the Upper Rhine region (France, Germany, Switzerland). We maintain active collaborations with research teams internationally.
+## 🤝 Collaboration 
 
-📞 Contact Information
-📍 CNRS UPR 3212, 8 allée du général Rouvillois, 67000 Strasbourg, France
-🌐 Website
-📧 Webmaster [contact]
-☎️ Tel: 03 88 45 66 00
+INCI participates in the [Neurex network](https://www.neurex.org/), connecting neuroscience research across the Upper Rhine region (France, Germany, Switzerland). We maintain active collaborations with research teams internationally.
+
+## 📞 Contact Information
+
+- 📍 CNRS UPR 3212, 8 allée du général Rouvillois, 67000 Strasbourg, France
+- 🌐 [Website](https://inci.neuro.unistra.fr/?page_id=95&lang=en)
+- 📧 Webmaster [contact]
+- ☎️ Tel: 03 88 45 66 00
