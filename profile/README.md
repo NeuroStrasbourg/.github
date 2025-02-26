@@ -50,77 +50,57 @@ Our institute approaches neuroscience through three main research axes:
 
 ## 🔧 Technical Platforms
 
-### At INCI
-
-### Technical Platform: **ComptOpt**
+### **ComptOpt**
 *Mélanie Kremer & Ipek Yalcin*
-> Focuses on rodent behavior, particularly in models and tests of pain and anxio-depressive disorders. Combines genetic approaches with molecular and physiological measurements to understand the biological bases of behavior studies.
+> Behavioral platform for rodent pain and anxiety models, combining genetic, molecular, and physiological analyses.
 
-### Technical Platform: **Laser Microdissection**
+### **Laser Microdissection**
 *Cristina Sandu*
-> The laser microdissection technique allows for the isolation of cells or groups of cells on a tissue section based on their phenotypic or functional characteristics. The microdissects are recovered using lasers on a thermosensitive membrane capsule and are compatible with transcriptomic, proteomic, epigenetic, and quantitative PCR analyzes. 
-Equipment: Arcturus Veritas laser microdissection system (Excilone) with an inverted fluorescence microscope, IR laser (810 nm), and UV laser (355 nm).
-Services include laser microdissector training and sample preparation techniques.
+> Uses laser technology to isolate specific cells from tissues for transcriptomic and proteomic studies.
 
-### Technical Platform: **Cryostats**
+### **Cryostats**
 *Stéphanie Dumont-Kientzy*
-> The cryostat allows sections of frozen tissue from 5 µm to 100 µm to be produced in a chamber maintained between -10°C and -27°C depending on the type of tissue. Applications include histological staining, immunohistochemistry, in situ hybridization, laser microdissection, and molecular diagnostic studies. Only laboratory personnel who have received the necessary instructions during training are authorized to use the Institute's cryostats.
+> Produces frozen tissue sections (5-100 µm) for histology, immunohistochemistry, and molecular diagnostics.
 
-### Technical Platform: **Mass Spectrometry**
-*Contacts: Yannick Goumon & Virginie Andry*
-> The INCI Mass Spectrometry platform aims to respond to various analysis requests and offer solutions for identifying and quantifying molecules in biology and biochemistry. Applications include small peptide or non-peptide molecules and metabolomics. The platform is equipped with a latest generation triple quadrupole mass spectrometer (MS) from ThermoFisher Scientific (2014), which allows quantitative analysis of molecules with a mass range of 10 to 3400 m/z. It features two ionization sources: electrospray (HESI) and atmospheric pressure chemical ionization (APCI). The mass spectrometer can be used in direct infusion or coupled with a Dionex Ultimate 3000 UPLC chain for rapid analysis of complex samples. Different analysis modes available include full scan, precursor ion scan, product ion scan, loss of neutral and SRM scan. The device offers high sensitivity combined with low noise for the quantitative analysis of small molecules, peptides, biosimilar and biological substances, providing more signal and less noise for greater precision and accuracy.
+### **Mass Spectrometry**
+*Yannick Goumon & Virginie Andry*
+> Identifies and quantifies biological molecules using a ThermoFisher triple quadrupole MS for metabolomics and peptide analysis.
 
-### Technical Platform: **Microscopy and Macroscopy**
-*Technical Manager: Anne-Marie Haeberlé*
-> These microscopy devices are part of the technical photonic microscopy platform at INCI, accessible to statutory and non-statutory members of the INCI. Access is subject to prior reservation, proper training, and authorization. Usage rules include recording usage details, returning settings to standard positions, and ensuring no personal items are left on site.
+### **Microscopy & Macroscopy**
+*Anne-Marie Haeberlé*
+> Provides photonic microscopy for imaging and analysis, accessible to trained users.
 
-### Technical Platform: **Molecular Biology and Bioinformatics**
-*Contacts: Charles Decraene, Pierre-Eric Lutz*
-> The molecular biology and bioinformatics technical platform aims to provide technical support and support for the institute's research projects relating to these different aspects. Activities include extraction, purification of nucleic acids, PCR amplification, cloning of classical plasmids and for virus production, and data analyses for sequencing and microarrays.
+### **Molecular Biology & Bioinformatics**
+*Charles Decraene, Pierre-Eric Lutz*
+> Supports nucleic acid extraction, PCR, cloning, sequencing analysis, and bioinformatics.
 
-### Technical Platform: **Morpho-Functional Analysis**
-*Contacts: Stéphanie Dumont-Kientzy (dumonts@unistra.fr)*
-> This platform supports researchers with the latest methods for studying biological tissues in collaboration with UAR3156 and the Neuropôle imaging platform. It offers training in image analysis software, automated analyses, and assistance with sample preparation, image acquisition, and analysis. Applications include transparency of tissues, expansion microscopy, in situ hybridization, and immunostaining.
+### **Morpho-Functional Analysis**
+*Stéphanie Dumont-Kientzy*
+> Assists with tissue imaging, in situ hybridization, immunostaining, and transparency techniques.
 
-### Technical Platform: **Quantitative PCR in real time**
-*Scientific Support: Vincent Lelievre*
-> Provides the technology for quantitative PCR, utilizing real-time amplification measurement with a Biorad MyIQ thermocycler and a TECAN pipetting robot for precise and rapid sample preparation.
+### **Real-Time qPCR**
+*Vincent Lelievre*
+> Offers quantitative PCR for gene expression analysis using a Bio-Rad MyIQ thermocycler.
 
-### Technical Platform: Engineering, Integration and Setup of Imaging, Ephy Approaches
-*Contact: Pierre-Alexis Derrien*
-> Assists teams with setting up fiber photometry and in vivo electrophysiology equipment, tool selection, surgery/implantation/virus design, analysis tools, and hardware synchronization issues. Also involves custom electronics and occasional 3D printing, surgeries, and biology.
-
-### Associated Platforms
-- **[Chronobiotron](https://chronobiotron.neuro.unistra.fr/)**
-  > Specialized animal facility for chronobiology research featuring environmental control and behavioral monitoring.
-
-- **[Imagerie In Vitro](https://piv.neuro.unistra.fr/)**
-  > Core facility for in vitro imaging with access to high-resolution microscopy.
-
-- **Unité Appui à la Recherche 3156**
-  > Research support unit providing technical assistance and resources.
+### **Imaging & Electrophysiology Engineering**
+*Pierre-Alexis Derrien*
+> Supports fiber photometry, in vivo electrophysiology, and custom electronics.
 
 ## 🏢 Research Facilities
 
 ### [Chronobiotron](https://chronobiotron.neuro.unistra.fr/)
-Dedicated chronobiology research facility with:
-- Environmental control rooms
-- Light cycle control systems
-- Behavioral monitoring equipment
-- Specialized animal housing
+> Chronobiology research facility with controlled environments and behavioral monitoring.
 
 ### [In Vitro Imaging Platform](https://piv.neuro.unistra.fr/)
-Imaging facility providing:
-- High-resolution microscopy
-- Live tissue imaging
-- Analysis support
-- Technical training
+> High-resolution microscopy, live tissue imaging, and analysis support.
 
 ### [CIRCSom](https://www.chru-strasbourg.fr/service/centre-des-troubles-du-sommeil/)
-Sleep research facility featuring:
-- Sleep monitoring systems
-- Chronobiology assessment tools
-- Clinical research capabilities
+> Sleep research center with monitoring systems and chronobiology assessments.
+
+### **Associated Platforms**
+- **[Chronobiotron](https://chronobiotron.neuro.unistra.fr/)** – Animal facility for chronobiology research.
+- **[In Vitro Imaging](https://piv.neuro.unistra.fr/)** – High-resolution imaging core facility.
+- **UAR 3156** – Research support for imaging and biological analyses.
 
 ## 🤝 Collaboration 
 
