@@ -54,21 +54,13 @@ Our institute approaches neuroscience through three main research axes:
 *Mélanie Kremer & Ipek Yalcin*
 > Behavioral platform for rodent pain and anxiety models, combining genetic, molecular, and physiological analyses.
 
-### **Laser Microdissection**
-*Cristina Sandu*
-> Uses laser technology to isolate specific cells from tissues for transcriptomic and proteomic studies.
-
-### **Cryostats**
-*Stéphanie Dumont-Kientzy*
-> Produces frozen tissue sections (5-100 µm) for histology, immunohistochemistry, and molecular diagnostics.
+### [**Imaging, Electrophysiology & Engineering - DANCE**](https://github.com/DANCE-NeuroStra)
+*Pierre-Alexis Derrien*
+> Supports fiber photometry, in vivo electrophysiology, and custom electronics.
 
 ### **Mass Spectrometry**
 *Yannick Goumon & Virginie Andry*
 > Identifies and quantifies biological molecules using a ThermoFisher triple quadrupole MS for metabolomics and peptide analysis.
-
-### **Microscopy & Macroscopy**
-*Anne-Marie Haeberlé*
-> Provides photonic microscopy for imaging and analysis, accessible to trained users.
 
 ### **Molecular Biology & Bioinformatics**
 *Charles Decraene, Pierre-Eric Lutz*
@@ -78,13 +70,21 @@ Our institute approaches neuroscience through three main research axes:
 *Stéphanie Dumont-Kientzy*
 > Assists with tissue imaging, in situ hybridization, immunostaining, and transparency techniques.
 
+### **Microscopy & Macroscopy**
+*Anne-Marie Haeberlé*
+> Provides photonic microscopy for imaging and analysis, accessible to trained users.
+
+### **Laser Microdissection**
+*Cristina Sandu*
+> Uses laser technology to isolate specific cells from tissues for transcriptomic and proteomic studies.
+
+### **Cryostats**
+*Stéphanie Dumont-Kientzy*
+> Produces frozen tissue sections (5-100 µm) for histology, immunohistochemistry, and molecular diagnostics.
+
 ### **Real-Time qPCR**
 *Vincent Lelievre*
 > Offers quantitative PCR for gene expression analysis using a Bio-Rad MyIQ thermocycler.
-
-### [**Imaging, Electrophysiology & Engineering - DANCE**](https://github.com/DANCE-NeuroStra)
-*Pierre-Alexis Derrien*
-> Supports fiber photometry, in vivo electrophysiology, and custom electronics.
 
 ## 🏢 Research Facilities
 
