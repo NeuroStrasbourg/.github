@@ -82,7 +82,7 @@ Our institute approaches neuroscience through three main research axes:
 *Vincent Lelievre*
 > Offers quantitative PCR for gene expression analysis using a Bio-Rad MyIQ thermocycler.
 
-### **Imaging & Electrophysiology Engineering**
+### [**Imaging, Electrophysiology & Engineering - DANCE**](https://github.com/DANCE-NeuroStra)
 *Pierre-Alexis Derrien*
 > Supports fiber photometry, in vivo electrophysiology, and custom electronics.
 
